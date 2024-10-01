@@ -1,0 +1,3 @@
+import pywhatkit
+pywhatkit.sendwhatmsg("+9186********", "This is a automate whatsapp message tutorial", 14, 55)
+
